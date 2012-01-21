@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceLight.Mobile", "FaceLight.WindowsPhone\FaceLight.Mobile.csproj", "{DCB6E7E7-41B0-4FA5-83EF-29C273FFD334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinetyNinePercent", "NinetyNinePercent\NinetyNinePercent.csproj", "{AA96B44D-77FA-447F-AED8-4D17F1781AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB6E7E7-41B0-4FA5-83EF-29C273FFD334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB6E7E7-41B0-4FA5-83EF-29C273FFD334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB6E7E7-41B0-4FA5-83EF-29C273FFD334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB6E7E7-41B0-4FA5-83EF-29C273FFD334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA96B44D-77FA-447F-AED8-4D17F1781AC5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
